@@ -6,3 +6,5 @@ Conflict
 Another conflict
 
 Unique resolve
+
+Changes for tags
